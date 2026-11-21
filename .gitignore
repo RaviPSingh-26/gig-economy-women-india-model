@@ -1,0 +1,14 @@
+# Data (survey microdata is not redistributable)
+*.sav
+*.csv
+data/
+# Generated outputs
+outputs/
+*.pkl
+*.joblib
+*.png
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
